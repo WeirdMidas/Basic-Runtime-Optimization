@@ -1,5 +1,5 @@
 # Basic Runtime Optimization
-A very basic ART/JIT optimization, just for fun.
+A very basic ART/JIT optimization, made for fun.
 
 ## Features
 - Set SystemUi and System_Server to more efficient profiles for use. This improves the accuracy of memory management and even cleans it up with HeapTaskDaemon, the System_Server garbage collector.
