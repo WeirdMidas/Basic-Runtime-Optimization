@@ -1,0 +1,6 @@
+id=runbasic
+name=Basic Runtime Optimization
+version=1.0 based on v2 ART
+versionCode=21
+author=@WeirdMidas
+description=A very basic ART/JIT optimization, applied with build prop and commands that have proven efficient on most devices in improving application execution and startup.

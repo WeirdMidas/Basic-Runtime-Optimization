@@ -1,0 +1,11 @@
+# This file will be read by resetprop
+# Example: Change dpi
+# ro.sf.lcd_density=320
+
+# Some updates from AOSP master for ART
+dalvik.vm.stack-trace-file=/dev/null
+dalvik.vm.debug.alloc=0
+dalvik.vm.minidebuginfo=false
+dalvik.vm.dex2oat-minidebuginfo=false
+dalvik.vm.systemservercompilerfilter=speed-profile
+dalvik.vm.systemuicompilerfilter=speed
